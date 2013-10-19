@@ -1,4 +1,64 @@
+*.cache
+*.pyc
+*.last-run
+
 /Installed Packages/
-/Packages/*/
 /Pristine Packages/
 /Settings/
+
+Packages/Work
+
+Packages/ActionScript
+Packages/AdvancedNewFile
+Packages/Alignment
+Packages/AppleScript
+Packages/ASP
+Packages/Batch File
+Packages/C#
+Packages/C++
+Packages/Clojure
+Packages/Color Scheme - Default
+Packages/CSS
+Packages/D
+Packages/Default
+Packages/Diff
+Packages/Erlang
+Packages/Go
+Packages/Graphviz
+Packages/Groovy
+Packages/Haskell
+Packages/HTML
+Packages/Indent XML
+Packages/Java
+Packages/JavaScript
+Packages/Language - English
+Packages/LaTeX
+Packages/Lisp
+Packages/Lua
+Packages/Makefile
+Packages/Markdown
+Packages/Matlab
+Packages/MSBuild
+Packages/Objective-C
+Packages/OCaml
+Packages/Package Control
+Packages/Perl
+Packages/PHP
+Packages/Python
+Packages/R
+Packages/Rails
+Packages/Regular Expressions
+Packages/RestructuredText
+Packages/Ruby
+Packages/Scala
+Packages/ShellScript
+Packages/SQL
+Packages/Tag
+Packages/TCL
+Packages/Text
+Packages/Textile
+Packages/Theme - Default
+Packages/Toggle Read-Only
+Packages/Vintage
+Packages/XML
+Packages/YAML

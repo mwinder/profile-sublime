@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"config",
+		"proj",
+		"csproj"
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "langs":
+    {
+        "C#":
+        {
+            "file_patterns": [".cs"],
+            "symbol_patterns":
+            [
+                "^(public)\\s\\w+"
+            ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+try
+{
+    $2
+}
+catch (${1:Exception} exception)
+{
+    $3
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>try</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.cs</scope>
+</snippet>

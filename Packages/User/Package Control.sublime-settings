@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Indent XML",
+		"MSBuild",
+		"Package Control",
+		"Tag",
+		"Toggle Read-Only"
+	]
+}

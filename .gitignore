@@ -2,6 +2,7 @@
 *.pyc
 *.last-run
 
+/Backup/
 /Installed Packages/
 /Pristine Packages/
 /Settings/
@@ -59,7 +60,9 @@ Packages/YAML
 Packages/Package Control
 Packages/AdvancedNewFile
 Packages/Alignment
+Packages/FileDiffs
 Packages/Indent XML
 Packages/MSBuild
+Packages/PowerShell
 Packages/Tag
 Packages/Toggle Read-Only

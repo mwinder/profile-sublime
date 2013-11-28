@@ -4,9 +4,11 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"FileDiffs",
 		"Indent XML",
 		"MSBuild",
 		"Package Control",
+		"PowerShell",
 		"Tag",
 		"Toggle Read-Only"
 	]

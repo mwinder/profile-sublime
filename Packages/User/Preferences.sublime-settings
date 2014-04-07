@@ -1,6 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
-	"detect_slow_plugins": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Consolas",
 	"font_size": 10,
@@ -10,7 +9,5 @@
 	],
 	"line_numbers": true,
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": false,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"trim_trailing_white_space_on_save": true
 }

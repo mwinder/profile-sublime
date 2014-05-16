@@ -2,6 +2,8 @@
 	"extensions":
 	[
 		"aspx",
-		"ascx"
+		"ascx",
+		"master",
+		"cshtml"
 	]
 }

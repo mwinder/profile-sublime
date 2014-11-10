@@ -8,8 +8,8 @@
 		"Vintage"
 	],
 	"line_numbers": true,
+	"show_full_path": false,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
-	"trim_trailing_white_space_on_save": true,
-	"show_full_path": false
+	"trim_trailing_white_space_on_save": true
 }

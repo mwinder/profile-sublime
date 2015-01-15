@@ -1,15 +1,26 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
+		"BracketHighlighter",
+		"Emmet",
 		"FileDiffs",
 		"Indent XML",
 		"MSBuild",
 		"Package Control",
 		"PowerShell",
+		"SideBarEnhancements",
+		"SublimeGit",
 		"Tag",
-		"Toggle Read-Only"
+		"Theme - Flatland"
 	]
 }

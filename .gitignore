@@ -2,7 +2,9 @@ Backup/
 Cache/
 Installed Packages/
 Local/
+Packages/User/*.cache
 Packages/User/Package Control.cache/
 Packages/User/Package Control.last-run
 Packages/OmniSharp/
 Packages/bz2/
+Packages/PyV8/

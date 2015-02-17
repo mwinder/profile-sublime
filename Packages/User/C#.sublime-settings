@@ -1,4 +1,7 @@
 {
+	"auto_complete": true,
+	"auto_complete_selector": "source - comment",
+	"auto_complete_triggers": [ {"selector": "source.cs", "characters": ".<"} ],
 	"extensions":
 	[
 		"csx"

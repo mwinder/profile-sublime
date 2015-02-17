@@ -1,5 +1,6 @@
 [
     { "keys": ["ctrl+alt+f"], "command": "autoFormat" },
     { "keys": ["ctrl+shift+s"], "command": "save_all" },
-    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["f12"], "command": "goto_definition" }
 ]

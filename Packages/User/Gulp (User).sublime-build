@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "gulp",
+    "working_dir": "${project_path:${folder}}",
+    "shell": true
+}

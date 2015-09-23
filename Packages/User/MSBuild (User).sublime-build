@@ -1,5 +1,5 @@
 {
-	"cmd": ["msbuild", "/verbosity:minimal", "/nologo"],
+	"cmd": ["msbuild", "/property:GenerateFullPaths=true", "/verbosity:quiet", "/nologo"],
 	"working_dir": "${project_path:${folder}}",
 	"file_regex": "^\\s*(.+?)\\(([0-9]+),?([0-9]+)?\\):\\s*(.*) \\[",
 	"shell": true,

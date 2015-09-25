@@ -1,5 +1,15 @@
 {
-    "shell_cmd": "gulp",
+    "cmd": ["gulp"],
     "working_dir": "${project_path:${folder}}",
-    "shell": true
+    "shell": true,
+    "windows" :
+    {
+        "path": "%PATH%;.\\node_modules\\bin"
+    },
+    "variants": [
+        {
+            "cmd": ["gulp", "test"],
+            "name": "Execute tests (target: test)"
+        }
+    ]
 }

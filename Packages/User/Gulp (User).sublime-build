@@ -9,7 +9,11 @@
     "variants": [
         {
             "cmd": ["gulp", "test"],
-            "name": "Execute tests (target: test)"
+            "name": "Test ('gulp test')"
+        },
+        {
+            "cmd": ["gulp", "clean"],
+            "name": "Clean ('gulp clean')"
         }
     ]
 }

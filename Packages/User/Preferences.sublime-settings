@@ -4,6 +4,9 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"MSBuild",
+		"OmniSharp",
+		"SideBarEnhancements",
 		"Vintage"
 	],
 	"line_numbers": true,

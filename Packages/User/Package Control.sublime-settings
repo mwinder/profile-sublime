@@ -11,13 +11,10 @@
 		"Emmet",
 		"FileDiffs",
 		"Indent XML",
-		"MSBuild",
 		"OmniSharp",
 		"Package Control",
 		"PowerShell",
 		"SideBarEnhancements",
-		"SublimeGit",
-		"Tag",
-		"Theme - Flatland"
+		"Tag"
 	]
 }

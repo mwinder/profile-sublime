@@ -16,8 +16,6 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"FileDiffs",
-		"SideBarEnhancements",
 		"Vintage"
 	],
 	"line_numbers": true,

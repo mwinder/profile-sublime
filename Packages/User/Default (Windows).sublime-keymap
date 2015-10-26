@@ -1,7 +1,7 @@
 [
     { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
-    { "keys": ["ctrl+alt+f"], "command": "autoFormat" },
     { "keys": ["ctrl+shift+s"], "command": "save_all" },
-    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-    { "keys": ["f12"], "command": "goto_definition" }
+    { "keys": ["f12"], "command": "goto_definition" },
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["ctrl+t"], "command": "goto_symbol_in_project" },
 ]

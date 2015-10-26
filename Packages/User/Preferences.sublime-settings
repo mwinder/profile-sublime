@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
@@ -17,12 +17,12 @@
 	"ignored_packages":
 	[
 		"FileDiffs",
-		"OmniSharp",
 		"SideBarEnhancements",
 		"Vintage"
 	],
 	"line_numbers": true,
 	"show_full_path": false,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true

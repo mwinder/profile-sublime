@@ -10,5 +10,5 @@ git clone https://github.com/mwinder/sublime-profile.git "~/AppData/Roaming/Subl
 ## Mac
 
 ```
-git clone https://github.com/mwinder/sublime-profile.git "Library/Application Support/Sublime Text 3"
+git clone https://github.com/mwinder/sublime-profile.git ~/Library/Application\ Support/Sublime\ Text\ 3
 ```
